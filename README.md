@@ -5,6 +5,7 @@
 These two challenges are part of the course **Artificial Neural Network and Deep Learning** at Politecnico di Milano (2022/2023)
 
 Challenge 1 Final Score: 5/5
+Challenge 2 Final Score: 5/5
 
 ## Programming Languages 
 
